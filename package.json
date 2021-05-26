@@ -1,0 +1,22 @@
+{
+  "name": "bot_magaz",
+  "version": "1.0.3",
+  "description": "Magaz_UA",
+  "main": "index.js",
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cicadadenis/Bot_magaz.git"
+  },
+  "keywords": [
+    "cicada"
+  ],
+  "author": "Cicada3301",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cicadadenis/Bot_magaz/issues"
+  },
+  "homepage": "https://github.com/Cicadadenis/Bot_magaz#readme"
+}
